@@ -22,7 +22,7 @@ export default function HomePage() {
 
     return(
         <>
-            <h1>This is Home Page {}</h1>
+            <h1>This is Home Page Semangat Final Project</h1>
             <div className="row">
                 {
                     dataMovies.map(el => (
